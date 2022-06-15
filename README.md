@@ -1,6 +1,6 @@
 # Overview
 
-This project is based off of Remzi from University of Winsconson Operating Systems class. 
+This project is based off of Professor Remzi's class from University of Winsconson Operating Systems. 
 
 The project description can be found here:
 
